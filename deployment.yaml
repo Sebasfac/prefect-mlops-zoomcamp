@@ -1,5 +1,5 @@
 deployments:
-- name: taxi_local_data
+- name: taxi1
   entrypoint: 3.4/orchestrate.py:main_flow
   work_pool: 
     name: zoompool
